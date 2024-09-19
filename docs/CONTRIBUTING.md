@@ -63,11 +63,11 @@ close #123
 If the pull request links an issue but does not close it, you can use the keyword `ref` like this:
 
 ```md
-ref #456
+ref #442
 ```
 
 Multiple issues should use full syntax for each issue and separate by a comma, like:
 
 ```md
-close #123, ref #456
+close #123, ref #442
 ```
